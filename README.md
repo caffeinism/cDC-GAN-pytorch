@@ -1,4 +1,4 @@
-# DCGAN implementation using pytorch with celebA dataset
+# Conditional DCGAN implementation using pytorch with celebA dataset
 ## Reference
 - Paper: 
     - Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [arxiv](https://arxiv.org/pdf/1511.06434.pdf)
