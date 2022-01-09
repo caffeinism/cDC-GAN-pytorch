@@ -1,3 +1,6 @@
+# NOTICE
+This is the code I made a while ago. There will definitely be better code in other repositories. If you want to use conditional DCGAN now, I recommend looking for other good repositories. o(*￣▽￣*)o
+
 # Conditional DCGAN implementation using pytorch with celebA dataset
 ## Reference
 - Paper: 
